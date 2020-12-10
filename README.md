@@ -24,3 +24,17 @@ The  standard  deviation  of  an  array  of  numbers x is calculated using numpy
 ### Task 4
 
 Use scikit-learn to  apply k-means  clustering  to Fisher’s  famous  Iris  data  set.   You  will  easily  obtain  a  copy  of  the  data  set  on-line.  Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
+
+## How to run Jupyter Notebook[1].
+1. Ensure Anaconda is installed on your computer.
+2. Clone this repository to your computer.
+3. Navigate to where you have cloned the repository, using cmd(Windows)
+4. Type jupyter notebook on the cmd, this will launch a new browser window or new tab.
+5. When started, the Jupyter Notebook App can access only files within its start-up folder (including any sub-folder). 
+No configuration is necessary if you place your notebooks in your home folder or subfolders.
+6. Double click on the file titled jupyter-tasks.ipynb
+7. The notebook should open, with all tasks displayed and the work involved in proving these tasks.
+8. For further information please see link below.
+
+#### References
+[1] Running the Jupyter Notebook; https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
