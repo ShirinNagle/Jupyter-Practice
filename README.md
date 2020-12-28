@@ -23,7 +23,7 @@ The  standard  deviation  of  an  array  of  numbers x is calculated using numpy
 
 ### Task 4
 
-Use scikit-learn to  apply k-means  clustering  to Fisher’s  famous  Iris  data  set.   You  will  easily  obtain  a  copy  of  the  data  set  on-line.  Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
+Use scikit-learn to  apply k-means  clustering or k NN(nearest neighbour)  to Fisher’s  famous  Iris  data  set.   You  will  easily  obtain  a  copy  of  the  data  set  on-line.  Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
 
 ## How to run Jupyter Notebook[1].
 1. Ensure Anaconda is installed on your computer.
